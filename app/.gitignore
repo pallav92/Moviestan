@@ -1,0 +1,49 @@
+# Built application files
+/*/build/*
+.project
+.idea/*
+# User-specific configurations
+.idea/libraries/
+.idea/workspace.xml
+.idea/gradle.xml
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+*.iml
+**/.idea/workspace.xml
+
+# Java class files
+*.class
+
+# Files for the Dalvik VM
+*.dex
+
+# Gradle generated files
+.gradle/
+
+#workspace file
+workspace.xml
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+
+#built application files
+*.apk
+*.ap_
+.gradle
+tmp/
+
+ # Gradle files
+ build/
+build
+gradlew
+gradlew.bat
+gradle/wrapper/gradle-wrapper.properties
+
